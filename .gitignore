@@ -1,2 +1,5 @@
 .venv
 /shared
+/batch
+/retuve-data
+/uploaded
